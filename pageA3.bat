@@ -1,4 +1,5 @@
 @ECHO OFF
+CLS
 ECHO MAIN TITLE TEXT
 ECHO.
 ECHO Table Of Contents:-
