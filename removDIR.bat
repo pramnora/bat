@@ -1,0 +1,6 @@
+@ECHO OFF
+REM *** You could also use RMDIR command; but, I prefer to use shorthand RD, instead...
+RD test
+REM *** Next, use the DIR statement to display all visible files/folders inside of the current DIRectory...
+REM --- to check that the chosen DIRectory folder really has been removed...?
+DIR
