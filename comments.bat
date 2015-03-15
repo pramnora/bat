@@ -1,3 +1,3 @@
 @ECHO OFF
-REM This is an internal DOS source code comment;
-REM it will not display any visible output.
+REM This is an internal DOS source code file comment.
+REM NOTE: This file does not display any visible output when run.
