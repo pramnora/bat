@@ -1,6 +1,7 @@
 @ECHO OFF
 REM DOS (COMMAND COM)...
 REM FOR %%a IN (1 2 3) DO CMD /C FOR %%b IN (A B C) DO ECHO %%a%%b
+REM
 REM NT (CMD.EXE)...
 FOR %%a IN (1 2) DO FOR %%b IN (A B) DO ECHO %%a%%b
 PAUSE
