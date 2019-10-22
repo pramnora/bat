@@ -21,6 +21,13 @@ Batch Programming - Learn Simply from Beginner to Advanced
 10 Cool Command Prompt Tricks You Should Know  
 - https://www.youtube.com/watch?v=TdWPEN_57mI  
 
+Network Troubleshooting at the Command Line - CompTIA A+ 220-901 - 4.4  
+- https://www.youtube.com/watch?v=-55X-koiBFg  
+
+Introduction to Batch File Programming  
+- https://www.youtube.com/watch?v=zXpCDwk3jRE  
+
+
 
 
 
