@@ -9,11 +9,14 @@ There are 2 ways to run MS DOS Commands...
 
 In order to open up an MS DOS Command prompt window...  
 
-a-  Press: [CTRL]+[R]...and, a Run dialog box should appear  
-b - Type into the Run dialog box: cmd...and, then, press the [OK] button...  
+a-  DO a combination key press: [WINDOWS PICTURE ICON KEY]+[R]...and, a Run dialog box should appear  
+
+b - Type into the Run dialog box: CMD...and, then, press the [OK] button...  
     this should make the 'black' screen MS DOS prompt window appear ready for typing command instructions into  
+
 c - Type: ECHO hello, world...and, press the [ENTER] key...and the words: 'hello, world' will show.  
-d - In order to close the MS DOS black screen window...either type: EXIT/or, hit the windows top right [x].  
+
+d - In order to close the MS DOS black screen window...either type: EXIT...then, press [ENTER] key/or else, hit the windows top right [x].  
 
 2. Programmatically, -also, known as 'silent' mode-, by including the commands inside of what is known as a batch program file.
 
