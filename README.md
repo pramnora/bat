@@ -196,6 +196,7 @@ Too, there are IF statements.../-etc.
 **MKDIR** folderName - Creates a new folder with the specified name  
 **REN** fileName1.txt fileName2.txt - Renames a file giving it a different file name  
 **RMDIR** folderName - Removes the folder with the specified name  
+**TREE** outputs the current folder/file directory in tree branch format to the console output screen  
 
 **NOTE:** Above, wherever you see the word: asterix; replace this with the asterix symbol: (*), instead; unfortunately, MarkDown [.md] is NOT allowing me to include asterixes...because it uses an asterix to italicise text.
 
@@ -219,9 +220,11 @@ Too, there are IF statements.../-etc.
 ### System related commands
 
 **DATE** - view/set date  
+**PROMPT** - allows one to change the MS DOS Window command prompt text  
 **REGEDIT** - allows one to view/change Windows System Registry entries  
 **SHUTDOWN** - shuts the computer system down  
 **TIME** - view/set time  
+**TITLE** text - allows one to change/replace the MS DOS Prompt window title text  
 **VER** - displays which version of MS DOS you are using   
 
 ### Text related commands
