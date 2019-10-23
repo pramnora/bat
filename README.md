@@ -247,6 +247,7 @@ dir > showdir.txt - sends to the file: [showdir.txt] the current directory listi
 
 ### Text related commands
 
+**CIPHER** /E - encrypts files so that no-one from another a/c. on the computer can read it
 **COLOR** - allows the user to change the console screen: background/foregroud colours using hex codes: 0-F.   
 **CLS** - clear the console screen  
 **ECHO** text - ECHO's to the console screen whatever text is being written after the ECHO command statement  
