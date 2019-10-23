@@ -142,6 +142,12 @@ MS DOS does include some programming related concepts/contructs, namely,...
 
 > GOTO start
 
+**NOTE:** In order to break out of running 'endless loop'...;   
+then, do combination keypress: [CTRL] + [C] to cancel...;        
+a prompt will appear asking if you really wish to cancel the batch job, Y/N?    
+Type: Y;   
+then, press [ENTER] key to stop. 
+
 **FOR** LOOPS...  
 
 > FOR %%n IN (1,2,3) DO ECHO %%n
