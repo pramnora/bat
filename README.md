@@ -13,6 +13,14 @@ C:\> DIR
 
 ...the above DIR instruction, for example would show the current directory listing of files/folders/-etc.
 
+## How to get help on any MS DOS Command
+
+In order to get help on how to use any MS DOS COMMAND...
+
+C:\> DIR /?
+
+...that is, DIR + space + forwards slash + question mark...will display a list of further instructions on how to use the command.
+
 ## Batch program files
 
 There are 2 ways to run MS DOS Commands...
@@ -87,7 +95,9 @@ Batch file programs are create for multiple different uses...
 
 6. -etc...
 
-...basically, MS DOS Batch file programs allows one to control the operating system in general.
+...basically, MS DOS Batch file programs allows one to control the underlying operating system in general.
+
+7. If MS DOS Batch file commands are either accidentally/or else, delibrately mis-used; then, they can also create a computer 'virus'/or, 'bomb'...which causes the computer to disfunction.
 
 # Links
 
