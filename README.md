@@ -121,15 +121,16 @@ Batch file programs are created for multiple different uses...; according to the
 
 ## MS DOS PROGRAMMING
 
-Most MS DOS commands are very simple...such as DIR...which lists what is the current directory folders/files.
+Most MS DOS commands are very simple...such as DIR...which lists what is the current directory folders/files;  
+however, the simple execution of 'one' command is NOT really a 'programming construct'.
 
-However, MS DOS also uses some programming relate contructs...namely,...
+MS DOS does include some programming related concepts/contructs, namely,...
 
 **VARIABLE NAMES**
 
 > myName="xyz"  
 
-> ECHO %%myName%%
+> ECHO %myName%
 
 **GOTO** statements/plus, label names...  
 
