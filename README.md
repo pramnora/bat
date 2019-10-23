@@ -225,9 +225,11 @@ Too, there are IF statements.../-etc.
 
 ### Text related commands
 
+**COLOR** - allows the user to change the console screen: background/foregroud colours using hex codes: 0-F.   
 **CLS** - clear the console screen  
 **ECHO** text - ECHO's to the console screen whatever text is being written after the ECHO command statement  
 **ECHO.** - The ECHO commands statement preceeded with a dot: (.)...means output a vertical blank line inside of the console screen  
+**TYPE** filename.ext - outputs the file text onto the console screen; (without actually executing the commands if a program file)  
 
 -etc.
 
