@@ -279,7 +279,7 @@ Windows has already brought out a different command line window which is used to
 
 Powershell, is a much more complex program -in my own view- which also contains loads and loads of different commands/plus, reportedly, commands related to the programming side of things is far better.  
 
-1. Open Powershell within Windows Command Prompt window
+1. **Open Windows Powershell within Windows Command Prompt window**
 
 In order to run Powershell -(which, normally, has a 'blue' background screen when you run the program independently/however, if you run it directly from within MS DOS, then, the background remains coloured in 'black')- just type in after the DOS Command Prompt...
 
@@ -291,7 +291,7 @@ PS C:\>
 
 **NOTE:** DOS command usage will also work inside of the Powershell window.
 
-2. Open Powershell as being an entirely separate window, instead
+2. **Open Windows Powershell as being an entirely separate window**
 
 An alternate way to open up the Powershell program window is...
 
