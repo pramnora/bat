@@ -288,6 +288,8 @@ An alternate way to open up the Powershell program window is...
 
 Do a combination keypress: [WINDOWS PICTURE ICON KEY] + [R]...opens up the Run dialog box...then, type in: Powershell...and, press the [OK] button...and, a window should now open up showing the 'blue' Powershell screen...ready for typing commands into.
 
+**NOTE:** Powershell, uses both DOS commands such as DIR to obtain a current folder/files DIRrectory listing.../and, UNIX style commands such as: LS...which also achieves doing exactly the same thing.
+
 # Links
 
 ## YouTube: Video tutorials
