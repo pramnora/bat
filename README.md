@@ -231,7 +231,7 @@ Too, there are IF statements.../-etc.
 **CLS** - clear the console screen  
 **ECHO** text - ECHO's to the console screen whatever text is being written after the ECHO command statement  
 **ECHO.** - The ECHO commands statement preceeded with a dot: (.)...means output a vertical blank line inside of the console screen  
-**PROMPT** - allows one to change the MS DOS Window command prompt text  
+**PROMPT** text - allows one to change the MS DOS Window command prompt text  
 **TITLE** text - allows one to change/replace the MS DOS Prompt window title text  
 **TYPE** filename.ext - outputs the file text onto the console screen; (without actually executing the commands if a program file)  
 
