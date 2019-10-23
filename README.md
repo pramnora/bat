@@ -70,6 +70,25 @@ hw01.bat
 4. Go and find the file you saved: [hw01.bat]; and, left double click on it to make it run.
 
 **NOTE**: MS DOS batch file programs are easily identifiable from other programs because it uses a picture icon of 2 cog wheels on top.  
+## What are batch file programs used for?
+
+Batch file programs are create for multiple different uses...
+
+1. Create files/delete files
+
+2. Create folders/delete folders
+
+3. Read file text using the console screen...without actually having to open any other program...;  
+   so, you can see program code without running it.
+
+4. See your computer/network settings...; and, also, change these.
+
+5. You can shut down the computer
+
+6. -etc...
+
+...basically, MS DOS Batch file programs allows one to control the operating system in general.
+
 # Links
 
 ## YouTube: Video tutorials
