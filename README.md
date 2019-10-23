@@ -102,6 +102,8 @@ Batch file programs are create for multiple different uses...
 ## A list of commonly used MS DOS Commands...
 
 CLS - clear the console screen  
+COPY fileName1.txt fileName2.txt - Copies one file to become another file name/(another file is created with same contents)  
+REN fileName1.txt fileName2.txt - Renames a file giving it a different file name  
 DIR - shows the current directory folder listing  
 MKDIR folderName - Creates a new folder with the specified name  
 RMDIR folderName - Removes the folder with the specified name  
