@@ -186,9 +186,9 @@ Too, there are IF statements.../-etc.
 
 ## A list of commonly used MS DOS Commands...
 
-**CLS** - clear the console screen  
+### File management related commands
+
 **COPY** fileName1.txt fileName2.txt - Copies one file to become another file name/(another file is created with same contents)  
-**DATE** - veiw/set date  
 **DEL** fileName - delete a file with the specified name  
 **DEL** asterix.txt - deletes ALL [.txt] files  (deletes all text files...with the current folder directory)  
 **DEL** asterix.asterix - deletes ALL files  (but, not folders...within the current folder directory)  
@@ -196,13 +196,30 @@ Too, there are IF statements.../-etc.
 **MKDIR** folderName - Creates a new folder with the specified name  
 **REN** fileName1.txt fileName2.txt - Renames a file giving it a different file name  
 **RMDIR** folderName - Removes the folder with the specified name  
-**TIME** - view/set time  
-**VER** - displays which version of MS DOS you are using 
-Notepad - launches the Notepad program  
-Notepad filename.ext - launches Notepad with the specified: filename + . + extension  
--etc.
 
 **NOTE:** Above, wherever you see the word: asterix; replace this with the asterix symbol: (*), instead; unfortunately, MarkDown [.md] is NOT allowing me to include asterixes...because it uses an asterix to italicise text.
+
+### Launch program files related commands
+
+CALC - launches the calculator program    
+Notepad - launches the Notepad program  
+Notepad filename.ext - launches Notepad with the specified: filename + . + extension    
+MSPaint - launches MS Paint program for doing drawing/painting  
+WRITE - launches a more sophistcated word processor than is the simple Notepad...;  
+        (you can add colours/pictures/other formatting/-etc.)  
+
+### System related commands
+
+**DATE** - veiw/set date  
+**TIME** - view/set time  
+**VER** - displays which version of MS DOS you are using 
+
+### Text related commands
+
+**CLS** - clear the console screen  
+**ECHO** text - ECHO's to the console screen whatever text is being written after the ECHO command statement  
+
+-etc.
 
 **NOTE:** Entire books have been written containing 500+ pages explaining all of the different in's and out's of the MS DOS command line system; quite obviously, I'm not going to repeat all of that same information here. Instead, I would highly recommend -assuming you wish to learn more- you either go and 'buy' a book/or, borrow one for FREE from down at your local public library; or, alternatively, do some internet research in order to go learn more(links are included, below). 
 
