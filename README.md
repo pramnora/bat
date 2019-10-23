@@ -220,8 +220,9 @@ Too, there are IF statements.../-etc.
 
 **DATE** - view/set date  
 **REGEDIT** - allows one to view/change Windows System Registry entries  
+**SHUTDOWN** - shuts the computer system down  
 **TIME** - view/set time  
-**VER** - displays which version of MS DOS you are using 
+**VER** - displays which version of MS DOS you are using   
 
 ### Text related commands
 
