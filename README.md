@@ -118,7 +118,7 @@ Notepad filename.ext - launches Notepad with the specified: filename + . + exten
 
 **NOTE:** Above, wherever you see the word: asterix; replace this with the asterix symbol: (*), instead; unfortunately, MarkDown [.md] is NOT allowing me to include asterixes...because it uses an asterix to italicise text.
 
-**NOTE:** Books have been written which contain 500+ pages explaining all of the different in's and out's of the MS DOS command line system; quite obviously, I'm not going to repeat all of that same information here. Instead, I would recommend you either go and buy a book/or, borrow one for FREE from down at your local public library. Or, alternatively, do some internet research in order to go learn more. Myself, I'm most definitely not an 'expert' when it comes to understanding how to use MS DOS; instead, I'm just merely a 'beginner'. 
+**NOTE:** Entire books have been written containing 500+ pages explaining all of the different in's and out's of the MS DOS command line system; quite obviously, I'm not going to repeat all of that same information here. Instead, I would highly recommend -assuming you wish to learn more- you either go and 'buy' a book/or, borrow one for FREE from down at your local public library; or, alternatively, do some internet research in order to go learn more(links are included, below). Myself, I'm most definitely not an 'expert' when it comes to understanding how to use MS DOS; instead, I would honestly class myself as being a mere 'beginner'. 
 
 # Links
 
