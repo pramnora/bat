@@ -208,6 +208,8 @@ MSPaint - launches MS Paint program for doing drawing/painting
 WRITE - launches a more sophistcated word processor than is the simple Notepad...;  
         (you can add colours/pictures/other formatting/-etc.)  
 
+**NOTE:** MS DOS Commands are NOT 'case sensitive'...so, DIR/Dir/dir...are all regarded as being entirely equivalent.        
+
 ### System related commands
 
 **DATE** - veiw/set date  
@@ -218,6 +220,7 @@ WRITE - launches a more sophistcated word processor than is the simple Notepad..
 
 **CLS** - clear the console screen  
 **ECHO** text - ECHO's to the console screen whatever text is being written after the ECHO command statement  
+**ECHO.** - The ECHO commands statement preceeded with a dot: (.)...means output a vertical blank line inside of the console screen  
 
 -etc.
 
