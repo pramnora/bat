@@ -274,11 +274,13 @@ Windows has already brought out a different command line window which is used to
 
 Powershell, is a much more complex program -in my own view- which also contains loads and loads of different commands/plus, reportedly, commands related to the programming side of things is far better.  
 
-In order to run Powershell -which has a blue background screen- just type in after the DOS Command Prompt...
+In order to run Powershell -(which, normally, has a 'blue' background screen when you run the program independently/however, i you run it directly from within MS DOS, then, the background remains coloured in 'black')- just type in after the DOS Command Prompt...
 
 C:\> Powershell
 
-...and, new Powershell Command Line Window will open ready for typing commands into.
+...and, the MS DOS Prompt changes over to become as follows:  
+
+PS C:\>
 
 **NOTE:** DOS command usage will also work inside of the Powershell window.
 
