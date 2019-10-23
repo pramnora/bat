@@ -132,18 +132,20 @@ ECHO %myName%
 
 **GOTO** statements/plus, label names...  
 
-start: 
-ECHO This is a GOTO form of looping...  
-GOTO start
+> start:    
+
+> ECHO This is a GOTO form of looping...  
+
+> GOTO start
 
 **FOR** LOOPS...  
 
-FOR %%n IN (1,2,3) DO ECHO %%n
+> FOR %%n IN (1,2,3) DO ECHO %%n
 
 ...note: the above code is how you would write a loop inside of a DOS BATCH program file;  
 in order to get the same FOR loop code to work at the command prompt...you would write it as follows:  
 
-FOR %n IN (1,2,3) DO ECHO %n
+> FOR %n IN (1,2,3) DO ECHO %n
 
 -etc.
 
