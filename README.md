@@ -25,7 +25,7 @@ C:\> DIR /?
 
 ## The use of MS DOS command switches - used to modify the commands output
 
-If say a DIR listing is especially long...; then, you might wish to use the /P switch...which displays the data just one single page at a time...
+If say a DIR listing is especially long...; then, you might wish to use the /P switch...which displays the data just one single page at a time...(otherwise, the long directory listing might scroll down so 'fast' that you can't actually see/read it?!)
 
 C:\> DIR /? /P
 
