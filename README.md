@@ -181,7 +181,7 @@ Filename 2: b.bat
 **NOTE** You simply call the named batch file program at the end of the file: [b.bat]...;   
          in order to link both: [a.bat]/[b.bat].
 
--etc.
+Too, there are IF statements.../-etc.
 
 ## A list of commonly used MS DOS Commands...
 
