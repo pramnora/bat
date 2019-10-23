@@ -252,6 +252,8 @@ Here are some further useful tips when you are working at the MS DOS Command Pro
 
 3 - [CTRL] + [LEFT ARROW]/or, [RIGHT ARROW] moves the cursor 1 word at a time...going either backwards/forwards. 
 
+4 - Pressing function key: [F7], will give you full command history listing...showing all the commands you had typed in before.  
+
 ## My own personal experience with using MS DOS
 
 Myself, I'm most definitely not an 'expert' when it comes to understanding how to use MS DOS; instead, I would honestly class myself as being a mere 'beginner'. 
