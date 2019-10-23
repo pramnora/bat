@@ -201,18 +201,25 @@ Too, there are IF statements.../-etc.
 
 ### Launch program files related commands
 
-CALC - launches the calculator program    
-Notepad - launches the Notepad program  
-Notepad filename.ext - launches Notepad with the specified: filename + . + extension    
-MSPaint - launches MS Paint program for doing drawing/painting  
-WRITE - launches a more sophistcated word processor than is the simple Notepad...;  
-        (you can add colours/pictures/other formatting/-etc.)  
+**CALC** - launches the calculator program    
+**Notepad** - launches the Notepad program  
+**Notepad** filename.ext - launches Notepad with the specified: filename + . + extension    
+**MSPaint** - launches MS Paint program for doing drawing/painting  
+**WRITE** - launches a more sophistcated word processor than is the simple Notepad...;  
+            (you can add colours/pictures/other formatting/-etc.)  
 
 **NOTE:** MS DOS Commands are NOT 'case sensitive'...so, DIR/Dir/dir...are all regarded as being entirely equivalent.        
+
+### Networking related commands
+
+**IPCONFIG** - shows the computer system info. such as IP address    
+**NETSTAT** - Lists running processes  
+**PING** URL - tests internet connection between two computers   
 
 ### System related commands
 
 **DATE** - view/set date  
+**REGEDIT** - allows one to view/change Windows System Registry entries  
 **TIME** - view/set time  
 **VER** - displays which version of MS DOS you are using 
 
