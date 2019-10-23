@@ -7,16 +7,18 @@ Disk Operating System batch files
 
 2. Type into the Notepad screen...
 
->@ECHO OFF
->ECHO Hello, world!
->PAUSE
+> @ECHO OFF
+> ECHO Hello, world!
+> PAUSE
 
 3. Use Notepad File menu option to Save the file as being called:
 hw01.bat
 
 4. Go and find the file you saved; and, left double click on it to make it run.
 
-#Videos
+# Links
+
+## Videos
 
 Batch/Cmd Programming: Lesson 1 (Basics)  
 - https://www.youtube.com/watch?v=kboexp3QiUg  
