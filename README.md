@@ -1,5 +1,5 @@
 # bat
-Disk Operating System batch files
+MS DOS/Microsoft Disk Operating System batch files: [.bat]
 
 ## Batch program files
 
@@ -34,7 +34,12 @@ Batch files contain a list of instructions...MS DOS Commands which are executed 
 
 1. Open Windows Notepad word processor program
 
-2. Type into the Notepad screen...
+a. Do a combination key press: [WINDOWS PICTURE ICON KEY]+[R]...and, the Run dialog box should open...
+
+b. Type in to the Run dialog box: Notepad...and, press the [OK] button...should make a Notepad window appear...;  
+   ready for typing futher instructions into.
+
+2. Type into the Notepad screen...the following 3 lines of MS DOS code:-
 
 > @ECHO OFF
 
@@ -42,10 +47,13 @@ Batch files contain a list of instructions...MS DOS Commands which are executed 
 
 > PAUSE
 
-3. Use Notepad File menu option to Save the file as being called:
+3. Use Notepad File menu option to Save the file as being called:  
+
 hw01.bat
 
-4. Go and find the file you saved; and, left double click on it to make it run.
+4. Go and find the file you saved: [hw01.bat]; and, left double click on it to make it run.
+
+**NOTE**: MS DOS batch file programs are easily identifiable from other programs because it uses a picture icon of 2 cog wheels.  
 
 # Links
 
