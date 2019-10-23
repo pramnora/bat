@@ -8,7 +8,9 @@ Disk Operating System batch files
 2. Type into the Notepad screen...
 
 > @ECHO OFF
+
 > ECHO Hello, world!
+
 > PAUSE
 
 3. Use Notepad File menu option to Save the file as being called:
@@ -18,7 +20,7 @@ hw01.bat
 
 # Links
 
-## Videos
+## YouTube: Video tutorials
 
 Batch/Cmd Programming: Lesson 1 (Basics)  
 - https://www.youtube.com/watch?v=kboexp3QiUg  
