@@ -268,7 +268,11 @@ Any programmer/or, like me, potential programmer...who can understand how to use
 
 So, what I'm saying here is, quite simply, this...if you are a programmer; then, it's also necessary to know MS DOS commands.
 
-**NOTE:** Windows has already brought out a different command line window which is used to replace DOS Command Prompt; and, it is called: Powershell. Powershell, is a much more complex program -in my own view- which also contains loads and loads of different commands/plus, reportedly, commands related to the programming side of things is far better.  
+## WINDOWS POWERSHELL
+
+Windows has already brought out a different command line window which is used to replace the MS DOS Command Prompt; and, it is called: Powershell. 
+
+Powershell, is a much more complex program -in my own view- which also contains loads and loads of different commands/plus, reportedly, commands related to the programming side of things is far better.  
 
 In order to run Powershell -which has a blue background screen- just type in after the DOS Command Prompt...
 
