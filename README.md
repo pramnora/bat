@@ -224,7 +224,7 @@ Too, there are IF statements.../-etc.
 **IPCONFIG** - shows the computer system info. such as IP address    
 **NETSTAT** - Lists running processes  
 **PING** URL - tests internet connection between two computers  
-**WMIC** logicaldisk get name - shows all available Drive letters   
+**WMIC** logicaldisk get name - shows all available disk drive letters   
 
 ### Pipe related commands
 
