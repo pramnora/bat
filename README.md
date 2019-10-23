@@ -148,7 +148,7 @@ in order to get the same FOR loop code to work at the command prompt...you would
 
 > FOR %n IN (1,2,3) DO ECHO %n
 
-**PROGRAM MODULES** 
+**MODULES** 
 
 Modularity, is where one MS DOS batch file program can easily be made to call a next.
 
@@ -179,7 +179,7 @@ Filename 2: b.bat
 > PAUSE  
 
 **NOTE** You simply call the named batch file program at the end of the file: [b.bat]...;   
-         in order to link both: [a.bat/bat].
+         in order to link both: [a.bat]/[b.bat].
 
 -etc.
 
