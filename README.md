@@ -148,12 +148,13 @@ in order to get the same FOR loop code to work at the command prompt...you would
 
 > FOR %n IN (1,2,3) DO ECHO %n
 
-**MODULES** 
+**PROGRAM MODULES** 
 
 Modularity, is where one MS DOS batch file program can easily be made to call a next.
 
-So, for example...if we had 2 MS DOS FILES: a.bat/bat...and, we wished to link these together...  
-to, automatically, run/execute one after the other...we would write it as...
+So, for example...if we had 2 x separate MS DOS program files: [a.bat]/[b.bat];     
+...and, we wished to link both of these files to run together;       
+to, automatically, run/execute one after the other...we would write it as...  
 
 Filename 1: a.bat
 
@@ -177,7 +178,8 @@ Filename 2: b.bat
 
 > PAUSE  
 
-**NOTE** You simply call the named batch file program at the end of the file: [b.bat].
+**NOTE** You simply call the named batch file program at the end of the file: [b.bat]...;   
+         in order to link both: [a.bat/bat].
 
 -etc.
 
