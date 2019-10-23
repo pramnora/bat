@@ -23,6 +23,16 @@ C:\> DIR /?
 
 ...that is, DIR + space + forwards slash + question mark...; then, press the [ENTER] key...; will display a list of further instructions on how to use the command.
 
+## The use of MS DOS command switches - used to modify the commands output
+
+If say a DIR listing is especially long...; then, you might wish to use the /P switch...which displays the data just one single page at a time...
+
+C:\> DIR /? /P
+
+...the /P switch will state at the bottom of the page...press any key to continue; then, go on to show the next page...and, so on...until the end of the file is reached.
+
+**NOTE:** Each MS DOS Command has it's own entirely 'unique' series of switches.
+
 ## Batch program files
 
 There are 2 ways to run MS DOS Commands...
