@@ -138,11 +138,11 @@ MS DOS does include some programming related concepts/contructs, namely,...
 
 > start:    
 
-> ECHO This is a GOTO form of looping...  
+> ECHO This is a GOTO form of 'endless loop...'  
 
 > GOTO start
 
-**NOTE:** In order to break out of running 'endless loop'...;   
+**NOTE:** In order to break out of a running 'endless loop'...;   
 then, do combination keypress: [CTRL] + [C] to cancel...;        
 a prompt will appear asking if you really wish to cancel the batch job, Y/N?    
 Type: Y;   
