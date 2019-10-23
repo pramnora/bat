@@ -1,6 +1,32 @@
 # bat
 Disk Operating System batch files
 
+## Batch program files
+
+There are 2 ways to run MS DOS Commands...
+
+1. Interactively, by typing in the commands inside of the MS DOS Command prompt window
+
+In order to open up an MS DOS Command prompt window...  
+
+a-  Press: [CTRL]+[R]...and, a Run dialog box should appear  
+b - Type into the Run dialog box: cmd...and, then, press the [OK] button...  
+    this should make the 'black' screen MS DOS prompt window appear ready for typing command instructions into  
+c - Type: ECHO hello, world...and, press the [ENTER] key...and the words: 'hello, world' will show.  
+d - In order to close the MS DOS black screen window...either type: EXIT/or, hit the windows top right [x].  
+
+2. Programmatically, -also, known as 'silent' mode-, by including the commands inside of what is known as a batch program file.
+
+(Instructions are shown below.)
+
+## What are batch [.bat] file programs?
+
+A batch file program uses: [filename.bat].
+
+The 3 letter filename exension: [.bat] is what turns the otherwise ordinary plain text file into becoming a batch file program.
+
+Batch files contain a list of instructions...MS DOS Commands which are executed whenever the program runs.
+
 ## How to create a batch file/and, execute it...
 
 1. Open Windows Notepad word processor program
