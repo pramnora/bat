@@ -36,13 +36,17 @@ d - In order to close the MS DOS black screen window...either type: EXIT...then,
 
 ## What are batch [.bat] file programs?
 
+First, a program file is nothing more than a plain text file: [.txt]...; which has been saved using a special filename extension.
+
 A batch file program uses: [filename.bat].
 
-The 3 letter filename exension: [.bat] is what turns the otherwise ordinary plain text file into becoming a batch file program.
+Where the [filename] part can be any filename you please.
 
-Batch files contain a list of instructions...MS DOS Commands which are executed whenever the program runs.
+The 3 letter filename exension: [.bat] is what turns the otherwise ordinary plain text file into becoming a batch file program, instead.
 
-## How to create a batch file/and, execute it...
+Batch files contain a list of instructions...MS DOS Commands...which are executed using 'top down flow'...whenever the program runs/executes.
+
+## How to create a batch file program/and, make it execute...
 
 1. Open Windows Notepad word processor program
 
@@ -65,8 +69,7 @@ hw01.bat
 
 4. Go and find the file you saved: [hw01.bat]; and, left double click on it to make it run.
 
-**NOTE**: MS DOS batch file programs are easily identifiable from other programs because it uses a picture icon of 2 cog wheels.  
-
+**NOTE**: MS DOS batch file programs are easily identifiable from other programs because it uses a picture icon of 2 cog wheels on top.  
 # Links
 
 ## YouTube: Video tutorials
