@@ -66,7 +66,7 @@ b. The 3 letter filename exension: [.bat] is what turns the otherwise ordinary p
 
 Batch files contain a list of instructions...MS DOS Commands...which are executed using 'top down flow'...whenever the program runs/executes.
 
-## How to create a batch file program/and, make it execute...
+## How to create a batch file program/and, then, make it execute...
 
 1. Open Windows Notepad word processor program
 
@@ -155,20 +155,27 @@ Modularity, is where one MS DOS batch file program can easily be made to call a 
 So, for example...if we had 2 MS DOS FILES: a.bat/bat...and, we wished to link these together...  
 to, automatically, run/execute one after the other...we would write it as...
 
-a.bat
+Filename 1: a.bat
 
-@ECHO OFF  
-CLS  
-ECHO This is file [a.bat]  
-PAUSE  
-b.bat  
+> @ECHO OFF  
 
-b.bat
+> CLS  
 
-@ECHO OFF  
-CLS  
-ECHO This is file [b.bat]  
-PAUSE  
+> ECHO This is file [a.bat]  
+
+> PAUSE  
+
+> b.bat  
+
+Filename 2: b.bat
+
+> @ECHO OFF  
+
+> CLS  
+
+> ECHO This is file [b.bat]  
+
+> PAUSE  
 
 **NOTE** You simply call the named batch file program at the end of the file: [b.bat].
 
