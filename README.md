@@ -245,17 +245,29 @@ Too, there are IF statements.../-etc.
 
 Here are some further useful tips when you are working at the MS DOS Command Prompt line...
 
-1 - If you wish to see a list of commands you've typed in before;   
+1 - You can use TAB to help auto-complete commands you are trying to type in...
+
+So, if there is a file called: xray.txt...inside of the current directory folder...;  
+you don't need to type in full file name + file name extension...;  
+but, instead, simply type in the first letter of the filename:  
+
+C:\> x (then, press [TAB] key...which will  auto-fill in the rest...
+C:\> xray.txt
+
+**NOTE:** If there exists more than one file starting with the letter 'x';  
+then, just keep on repeatedly pressing [TAB] to get to the next file beginning with letter 'x'; and, so on... 
+
+2 - If you wish to see a list of commands you've typed in before;   
     then, use the UP ARROW key to take you backwards through the command history list;  
     pressing the DOWN ARROW key moves you forwards through the command history list.   
 
-2 - In order to move your cursor to the beginning/or, end of the line use...  
+3 - In order to move your cursor to the beginning/or, end of the line use...  
     a - press [Home] takes you to the beginning of the line  
     b - press [End] takes you to the end of the line  
 
-3 - [CTRL] + [LEFT ARROW]/or, [RIGHT ARROW] moves the cursor 1 word at a time...going either backwards/forwards. 
+4 - [CTRL] + [LEFT ARROW]/or, [RIGHT ARROW] moves the cursor 1 word at a time...going either backwards/forwards. 
 
-4 - Pressing function key: [F7], will give you full command history listing...showing all the commands you had typed in before.  
+5 - Pressing function key: [F7], will give you full command history listing...showing all the commands you had typed in before.  
 
 ## My own personal experience with using MS DOS
 
