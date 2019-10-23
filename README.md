@@ -215,7 +215,19 @@ Too, there are IF statements.../-etc.
 
 **IPCONFIG** - shows the computer system info. such as IP address    
 **NETSTAT** - Lists running processes  
-**PING** URL - tests internet connection between two computers   
+**PING** URL - tests internet connection between two computers  
+**WMIC** logicaldisk get name - shows all available Drive letters   
+
+### Pipe related commands
+
+dir | clip - sends to the clipboard the current directory listing of all files/folders;    
+             (next, one can open Notepad to copy and paste from the clipboard)  
+notepad (used in conjunction with the above; when notepad opens...just do a [CTRL] + [V] to paste.  
+
+dir > showdir.txt - sends to the file: [showdir.txt] the current directory listing of all files/folders  
+
+
+
 
 ### System related commands
 
