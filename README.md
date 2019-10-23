@@ -260,6 +260,24 @@ Perhaps I know: 30 or so MS DOS commands(half of which I can actually at any one
 
 I must confess that I do have a really poor memory...so, that's why I write these [.md] files/github programs...just in order to help 'refesh' my memory for whenever I do, quite inevitably, tend to forget...?!
 
+## CONCLUSION
+
+MS DOS, represents a whole entire operating system in itself; and, therefore, the list of commands/plus, all possible switches used to modify those commands is 'huge'...!
+
+Any programmer/or, like me, potential programmer...who can understand how to use MS DOS commands really well...will be able to program and manipulate a Windows based computer machine system any how they please. 
+
+So, what I'm saying here is, quite simply, this...if you are a programmer; then, it's also necessary to know MS DOS commands.
+
+**NOTE:** Windows has already brought out a different command line window which is used to replace DOS Command Prompt; and, it is called: Powershell. Powershell, is a much more complex program -in my own view- which also contains loads and loads of different commands/plus, reportedly, commands related to the programming side of things is far better.  
+
+In order to run Powershell -which has a blue background screen- just type in after the DOS Command Prompt...
+
+C:\> Powershell
+
+...and, new Powershell Command Line Window will open ready for typing commands into.
+
+**NOTE:** DOS command usage will also work inside of the Powershell window.
+
 # Links
 
 ## YouTube: Video tutorials
