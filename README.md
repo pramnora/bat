@@ -199,6 +199,8 @@ Too, there are IF statements.../-etc.
 
 **NOTE:** Above, wherever you see the word: asterix; replace this with the asterix symbol: (*), instead; unfortunately, MarkDown [.md] is NOT allowing me to include asterixes...because it uses an asterix to italicise text.
 
+**NOTE:** MS DOS Commands are NOT 'case sensitive'...so, DIR/Dir/dir...are all regarded as being entirely equivalent.        
+
 ### Launch program files related commands
 
 **CALC** - launches the calculator program    
@@ -207,8 +209,6 @@ Too, there are IF statements.../-etc.
 **MSPaint** - launches MS Paint program for doing drawing/painting  
 **WRITE** - launches a more sophistcated word processor than is the simple Notepad...;  
             (you can add colours/pictures/other formatting/-etc.)  
-
-**NOTE:** MS DOS Commands are NOT 'case sensitive'...so, DIR/Dir/dir...are all regarded as being entirely equivalent.        
 
 ### Networking related commands
 
