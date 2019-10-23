@@ -15,7 +15,7 @@ C:\> DIR
 
 **NOTE:** The MS DOS Command prompt symbol should read as: C + colon + backwards slash + right pointing chevron/arrow; however, MarkDown (.md) is not allowing the display of the 'backwards slash'...?!   
 
-## How to get help on any MS DOS Command
+## How to get help on how to use any MS DOS Command
 
 In order to get help on how to use any MS DOS COMMAND...
 
@@ -27,7 +27,7 @@ C:\> DIR /?
 
 There are 2 ways to run MS DOS Commands...
 
-1. Interactively, by typing in the commands inside of the MS DOS Command prompt window
+1. 'Interactively', by typing in the commands inside of the MS DOS Command prompt window
 
 In order to open up an MS DOS Command prompt window...  
 
@@ -40,19 +40,19 @@ c - Type: ECHO hello, world...and, press the [ENTER] key...and the words: 'hello
 
 d - In order to close the MS DOS black screen window...either type: EXIT...then, press [ENTER] key/or else, hit the windows top right [x].  
 
-2. Programmatically, -also, known as 'silent' mode-, by including the commands inside of what is known as a batch program file.
+2. 'Programmatically', -also, known as 'silent' mode-, by including the commands inside of what is known as a batch program file.
 
 (Instructions are shown below.)
 
 ## What are batch [.bat] file programs?
 
-First, a program file is nothing more than a plain text file: [.txt]...; which has been saved using a special filename extension.
+First, a program file is nothing more than a plain text file: [filename.txt]...; which has been saved using a special filename extension: [.bat].
 
 A batch file program uses: [filename.bat].
 
 Where the [filename] part can be any filename you please.
 
-The 3 letter filename exension: [.bat] is what turns the otherwise ordinary plain text file into becoming a batch file program, instead.
+The 3 letter filename exension: [.bat] is what turns the otherwise ordinary plain text file: [.txt] into becoming a batch file program, instead.
 
 Batch files contain a list of instructions...MS DOS Commands...which are executed using 'top down flow'...whenever the program runs/executes.
 
@@ -103,15 +103,15 @@ Batch file programs are create for multiple different uses...
 
 ## A list of commonly used MS DOS Commands...
 
-CLS - clear the console screen  
-COPY fileName1.txt fileName2.txt - Copies one file to become another file name/(another file is created with same contents)  
-REN fileName1.txt fileName2.txt - Renames a file giving it a different file name  
-DIR - shows the current directory folder listing  
-MKDIR folderName - Creates a new folder with the specified name  
-RMDIR folderName - Removes the folder with the specified name  
-DEL fileName - delete a file with the specified name  
-DEL asterix.txt - deletes ALL [.txt] files  (deletes all text files...with the current folder directory)  
-DEL asterix.asterix - deletes ALL files  (but, not folders...within the current folder directory)  
+**CLS** - clear the console screen  
+**COPY** fileName1.txt fileName2.txt - Copies one file to become another file name/(another file is created with same contents)  
+**REN** fileName1.txt fileName2.txt - Renames a file giving it a different file name  
+**DIR** - shows the current directory folder listing  
+**MKDIR** folderName - Creates a new folder with the specified name  
+**RMDIR** folderName - Removes the folder with the specified name  
+**DEL** fileName - delete a file with the specified name  
+**DEL** asterix.txt - deletes ALL [.txt] files  (deletes all text files...with the current folder directory)  
+**DEL** asterix.asterix - deletes ALL files  (but, not folders...within the current folder directory)  
 Notepad - launches the Notepad program  
 Notepad filename.ext - launches Notepad with the specified: filename + . + extension  
 -etc.
