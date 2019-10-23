@@ -121,13 +121,13 @@ Batch file programs are created for multiple different uses...; according to the
 
 **CLS** - clear the console screen  
 **COPY** fileName1.txt fileName2.txt - Copies one file to become another file name/(another file is created with same contents)  
-**REN** fileName1.txt fileName2.txt - Renames a file giving it a different file name  
-**DIR** - shows the current directory folder listing  
 **DATE** - veiw/set date
 **DEL** fileName - delete a file with the specified name  
 **DEL** asterix.txt - deletes ALL [.txt] files  (deletes all text files...with the current folder directory)  
 **DEL** asterix.asterix - deletes ALL files  (but, not folders...within the current folder directory)  
+**DIR** - shows the current directory folder listing  
 **MKDIR** folderName - Creates a new folder with the specified name  
+**REN** fileName1.txt fileName2.txt - Renames a file giving it a different file name  
 **RMDIR** folderName - Removes the folder with the specified name  
 **TIME** - view/set time
 **VER** - displays which version of MS DOS you are using 
