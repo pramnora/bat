@@ -212,7 +212,7 @@ WRITE - launches a more sophistcated word processor than is the simple Notepad..
 
 ### System related commands
 
-**DATE** - veiw/set date  
+**DATE** - view/set date  
 **TIME** - view/set time  
 **VER** - displays which version of MS DOS you are using 
 
