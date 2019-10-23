@@ -128,9 +128,11 @@ MS DOS does include some programming related concepts/contructs, namely,...
 
 **VARIABLE NAMES**
 
-> myName="xyz"  
+> SET myName="xyz"  
 
 > ECHO %myName%
+
+**NOTE:** There must be no space between var="value"; otherwise, the ECHO var command will not work!
 
 **GOTO** statements/plus, label names...  
 
