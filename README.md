@@ -97,13 +97,13 @@ Batch file programs are created for multiple different uses...; according to the
 
 5. You can shut down the computer
 
-6. -etc...
-
-7. If MS DOS Batch file commands are either accidentally/or else, delibrately mis-used; then, they can also create a computer 'virus'/or, 'bomb'...which causes the computer to disfunction; for example,... 
+6. If MS DOS Batch file commands are either accidentally/or else, delibrately mis-used; then, they can also create a computer 'virus'/or, 'bomb'...which causes the computer to disfunction; for example,... 
 
 - if one were to rename/delete very important system files  
-- modify the Windows registry  
-- etc.
+- rename drive letters  
+- modify the Windows system registry   
+
+7. -etc.
 
 ## A list of commonly used MS DOS Commands...
 
