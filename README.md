@@ -115,7 +115,37 @@ Batch file programs are created for multiple different uses...; according to the
 - produce an endless loop which creates files...;  
   thus, (eventually, causing the computer to completely run out of memory)  
 
-7. -etc.
+7. Programming, using loops/variables/if statements/GOTO/labels/-etc.
+
+8. -etc.
+
+## MS DOS PROGRAMMING
+
+Most MS DOS commands are very simple...such as DIR...which lists what is the current directory folders/files.
+
+However, MS DOS also uses some programming relate contructs...namely,...
+
+**VARIABLE NAMES**
+
+myName="xyz"
+ECHO %myName%
+
+**GOTO** statements/plus, label names...  
+
+start: 
+ECHO This is a GOTO form of looping...
+GOTO start
+
+**FOR** LOOPS...  
+
+FOR %%n IN (1,2,3) DO ECHO %%n
+
+...note: the above code is how you would write a loop inside of a DOS BATCH program file;  
+in order to get the same FOR loop code to work at the command prompt...you would write it as follows:  
+
+FOR %n IN (1,2,3) DO ECHO %n
+
+-etc.
 
 ## A list of commonly used MS DOS Commands...
 
