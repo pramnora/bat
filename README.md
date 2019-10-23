@@ -237,6 +237,20 @@ Too, there are IF statements.../-etc.
 
 **NOTE:** It's possible to have 'multiple' Command Prompt windows open together, all at once; therefore, you are not confined to using just one single Command Prompt window, alone.
 
+## Some further tips on using the Command Prompt line
+
+Here are some further useful tips when you are working at the MS DOS Command Prompt line...
+
+1 - If you wish to see a list of commands you've typed in before;   
+    then, use the UP ARROW key to take you backwards through the command history list;  
+    pressing the DOWN ARROW key moves you forwards through the command history list.   
+
+2 - In order to move your cursor to the beginning/or, end of the line use...  
+    a - press [Home] takes you to the beginning of the line  
+    b - press [End] takes you to the end of the line  
+
+3 - [CTRL] + [LEFT ARROW]/or, [RIGHT ARROW] moves the cursor 1 word at a time...going either backwards/forwards. 
+
 ## My own personal experience with using MS DOS
 
 Myself, I'm most definitely not an 'expert' when it comes to understanding how to use MS DOS; instead, I would honestly class myself as being a mere 'beginner'. 
