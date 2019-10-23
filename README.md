@@ -1,6 +1,18 @@
 # bat
 MS DOS/Microsoft Disk Operating System batch files: [.bat]
 
+## MS DOS Batch file programming history
+
+Before the Windows OS/Operating System was invented...which uses the WIMP/Window Icons Mouse Pointer...or, GUI/Graphical User Interface system; there was the MS DOS CLI/Command Line Interface user interface, instead; and, this is just a 'black' screen...which also contains what is known as a prompt.
+
+C:\>
+
+...and, the user would type in command instructions after the prompt.
+
+C:\> DIR
+
+...the above DIR instruction, for example would show the current directory listing of files/folders/-etc.
+
 ## Batch program files
 
 There are 2 ways to run MS DOS Commands...
@@ -9,7 +21,7 @@ There are 2 ways to run MS DOS Commands...
 
 In order to open up an MS DOS Command prompt window...  
 
-a-  DO a combination key press: [WINDOWS PICTURE ICON KEY]+[R]...and, a Run dialog box should appear  
+a -  DO a combination key press: [WINDOWS PICTURE ICON KEY]+[R]...and, a Run dialog box should appear  
 
 b - Type into the Run dialog box: CMD...and, then, press the [OK] button...  
     this should make the 'black' screen MS DOS prompt window appear ready for typing command instructions into  
