@@ -127,8 +127,9 @@ However, MS DOS also uses some programming relate contructs...namely,...
 
 **VARIABLE NAMES**
 
-myName="xyz"  
-ECHO %myName%
+> myName="xyz"  
+
+> ECHO %%myName%%
 
 **GOTO** statements/plus, label names...  
 
@@ -142,7 +143,7 @@ ECHO %myName%
 
 > FOR %%n IN (1,2,3) DO ECHO %%n
 
-...note: the above code is how you would write a loop inside of a DOS BATCH program file;  
+**NOTE:** The above code is how you would write a FOR loop being included inside of a DOS BATCH program file: [.bat];   
 in order to get the same FOR loop code to work at the command prompt...you would write it as follows:  
 
 > FOR %n IN (1,2,3) DO ECHO %n
