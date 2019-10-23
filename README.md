@@ -120,6 +120,8 @@ Notepad filename.ext - launches Notepad with the specified: filename + . + exten
 
 **NOTE:** Entire books have been written containing 500+ pages explaining all of the different in's and out's of the MS DOS command line system; quite obviously, I'm not going to repeat all of that same information here. Instead, I would highly recommend -assuming you wish to learn more- you either go and 'buy' a book/or, borrow one for FREE from down at your local public library; or, alternatively, do some internet research in order to go learn more(links are included, below). 
 
+## My own personal experience with using MS DOS
+
 Myself, I'm most definitely not an 'expert' when it comes to understanding how to use MS DOS; instead, I would honestly class myself as being a mere 'beginner'. Perhaps I know: 10/20/30 or so MS DOS commands; when, in actual fact, there are many 100's more to go and learn and know; not to mention, quite literally, 1000's of possible switches one can add in order to modify all of those commands. I must confess that I do have a really poor memory...so, that's why I write these [.md] files/github programs...just in order to help 'refesh' my memory for whenever I do, quite inevitably, tend to forget...?!
 
 # Links
