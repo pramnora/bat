@@ -3,7 +3,7 @@ MS DOS/Microsoft Disk Operating System batch files: [.bat]
 
 ## MS DOS Batch file programming history
 
-Before the Windows OS/Operating System was invented...which uses the WIMP/Window Icons Mouse Pointer...or, GUI/Graphical User Interface system; there was the MS DOS CLI/Command Line Interface operating system, instead; and, this is just a 'black' screen...which also contains what is known as a prompt.
+Before the Windows OS/Operating System was invented...which uses the WIMP/Window Icons Mouse Pointer...or, GUI/Graphical User Interface system; there was the MS DOS CLI/Command Line Interface operating system, instead; and, this is just a 'black' screen...which also contains what is known as a MS DOS 'Command prompt' symbol.
 
 C:\>
 
@@ -12,6 +12,8 @@ C:\>
 C:\> DIR
 
 ...the above DIR instruction, for example would show the current directory listing of files/folders/-etc.
+
+**NOTE:** The MS DOS Command prompt symbol should read as: C + colon + backwards slash + right pointing chevron/arrow; however, MarkDown (.md) is not allowing the display of the 'backwards slash'...?!   
 
 ## How to get help on any MS DOS Command
 
@@ -108,8 +110,8 @@ DIR - shows the current directory folder listing
 MKDIR folderName - Creates a new folder with the specified name  
 RMDIR folderName - Removes the folder with the specified name  
 DEL fileName - delete a file with the specified name  
-DEL asterix.txt - deletes ALL [.txt] files  
-DEL asterix.asterix - deletes ALL files  
+DEL asterix.txt - deletes ALL [.txt] files  (deletes all text files...with the current folder directory)  
+DEL asterix.asterix - deletes ALL files  (but, not folders...within the current folder directory)  
 Notepad - launches the Notepad program  
 Notepad filename.ext - launches Notepad with the specified: filename + . + extension  
 -etc.
