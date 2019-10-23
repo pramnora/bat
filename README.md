@@ -50,9 +50,9 @@ First, a program file is nothing more than a plain text file: [filename.txt]...;
 
 A batch file program uses: [filename.bat].
 
-Where the [filename] part can be any filename you please.
+a. Where the [filename] part can be any filename you please.
 
-The 3 letter filename exension: [.bat] is what turns the otherwise ordinary plain text file: [.txt] into becoming a batch file program, instead.
+b. The 3 letter filename exension: [.bat] is what turns the otherwise ordinary plain text file: [.txt] into becoming a batch file program, instead.
 
 Batch files contain a list of instructions...MS DOS Commands...which are executed using 'top down flow'...whenever the program runs/executes.
 
