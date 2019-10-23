@@ -112,6 +112,8 @@ Batch file programs are created for multiple different uses...; according to the
 - if one were to rename/delete very important system files  
 - rename drive letters  
 - modify the Windows system registry   
+- produce an endless loop which creates files...;  
+  thus, (eventually, causing the computer to completely run out of memory)  
 
 7. -etc.
 
