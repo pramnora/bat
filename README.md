@@ -233,6 +233,8 @@ Too, there are IF statements.../-etc.
 
 **NOTE:** Entire books have been written containing 500+ pages explaining all of the different in's and out's of the MS DOS command line system; quite obviously, I'm not going to repeat all of that same information here. Instead, I would highly recommend -assuming you wish to learn more- you either go and 'buy' a book/or, borrow one for FREE from down at your local public library; or, alternatively, do some internet research in order to go learn more(links are included, below). 
 
+**NOTE:** It's possible to have 'multiple' Command Prompt windows open together, all at once; therefore, you are not confined to using just one single Command Prompt window, alone.
+
 ## My own personal experience with using MS DOS
 
 Myself, I'm most definitely not an 'expert' when it comes to understanding how to use MS DOS; instead, I would honestly class myself as being a mere 'beginner'. 
