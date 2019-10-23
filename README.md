@@ -19,7 +19,7 @@ In order to get help on how to use any MS DOS COMMAND...
 
 C:\> DIR /?
 
-...that is, DIR + space + forwards slash + question mark...will display a list of further instructions on how to use the command.
+...that is, DIR + space + forwards slash + question mark...; then, press the [ENTER] key...; will display a list of further instructions on how to use the command.
 
 ## Batch program files
 
@@ -98,6 +98,19 @@ Batch file programs are create for multiple different uses...
 ...basically, MS DOS Batch file programs allows one to control the underlying operating system in general.
 
 7. If MS DOS Batch file commands are either accidentally/or else, delibrately mis-used; then, they can also create a computer 'virus'/or, 'bomb'...which causes the computer to disfunction.
+
+## A list of commonly used MS DOS Commands...
+
+CLS - clear the console screen  
+DIR - shows the current directory folder listing  
+MKDIR folderName - Creates a new folder with the specified name  
+RMDIR folderName - Removes the folder with the specified name  
+DEL fileName - delete a file with the specified name  
+DEL asterix.txt - deletes ALL [.txt] files  
+DEL *.* - deletes ALL files  
+Notepad - launches the Notepad program  
+Notepad filename.ext - launches Notepad with the specified: filename + . + extension  
+-etc.
 
 # Links
 
