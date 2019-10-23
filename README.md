@@ -284,6 +284,10 @@ PS C:\>
 
 **NOTE:** DOS command usage will also work inside of the Powershell window.
 
+An alternate way to open up the Powershell program window is...
+
+Do a combination keypress: [WINDOWS PICTURE ICON KEY] + [R]...opens up the Run dialog box...then, type in: Powershell...and, press the [OK] button...and, a window should now open up showing the 'blue' Powershell screen...ready for typing commands into.
+
 # Links
 
 ## YouTube: Video tutorials
