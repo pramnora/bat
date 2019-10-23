@@ -228,7 +228,11 @@ WRITE - launches a more sophistcated word processor than is the simple Notepad..
 
 ## My own personal experience with using MS DOS
 
-Myself, I'm most definitely not an 'expert' when it comes to understanding how to use MS DOS; instead, I would honestly class myself as being a mere 'beginner'. Perhaps I know: 10/20/30 or so MS DOS commands; when, in actual fact, there are many 100's more to go and learn and know; not to mention, quite literally, 1000's of possible switches one can add in order to modify all of those commands. I must confess that I do have a really poor memory...so, that's why I write these [.md] files/github programs...just in order to help 'refesh' my memory for whenever I do, quite inevitably, tend to forget...?!
+Myself, I'm most definitely not an 'expert' when it comes to understanding how to use MS DOS; instead, I would honestly class myself as being a mere 'beginner'. 
+
+Perhaps I know: 30 or so MS DOS commands(half of which I can actually at any one time recall); when, in actual fact, there are many 100's more to go and learn and know; not to mention, quite literally, 1000's of possible switches one can add in order to modify all of those commands.
+
+I must confess that I do have a really poor memory...so, that's why I write these [.md] files/github programs...just in order to help 'refesh' my memory for whenever I do, quite inevitably, tend to forget...?!
 
 # Links
 
