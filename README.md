@@ -82,7 +82,9 @@ hw01.bat
 **NOTE**: MS DOS batch file programs are easily identifiable from other programs because it uses a picture icon of 2 cog wheels on top.  
 ## What are batch file programs used for?
 
-Batch file programs are create for multiple different uses...
+Basically, MS DOS Batch file programs allows one to control the underlying operating system in general.
+
+Batch file programs are created for multiple different uses...; according to the programmers own creative 'imagination'.
 
 1. Create files/delete files
 
@@ -97,9 +99,11 @@ Batch file programs are create for multiple different uses...
 
 6. -etc...
 
-...basically, MS DOS Batch file programs allows one to control the underlying operating system in general.
+7. If MS DOS Batch file commands are either accidentally/or else, delibrately mis-used; then, they can also create a computer 'virus'/or, 'bomb'...which causes the computer to disfunction; for example,... 
 
-7. If MS DOS Batch file commands are either accidentally/or else, delibrately mis-used; then, they can also create a computer 'virus'/or, 'bomb'...which causes the computer to disfunction.
+- if one were to rename/delete very important system files  
+- modify the Windows registry  
+- etc.
 
 ## A list of commonly used MS DOS Commands...
 
