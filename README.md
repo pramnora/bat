@@ -29,7 +29,7 @@ If say a DIR listing is especially long...; then, you might wish to use the /P s
 
 C:\> DIR /? /P
 
-...the /P switch will state at the bottom of the page...press any key to continue; then, go on to show the next page...and, so on...until the end of the file is reached.
+...the /P switch will state at the bottom of the page...'press any key to continue...'; then, go on to show the next page...and, so on...until when the end of the file is reached.
 
 **NOTE:** Each MS DOS Command has it's own entirely 'unique' series of switches.
 
