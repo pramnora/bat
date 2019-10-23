@@ -3,7 +3,7 @@ MS DOS/Microsoft Disk Operating System batch files: [.bat]
 
 ## MS DOS Batch file programming history
 
-Before the Windows OS/Operating System was invented...which uses the WIMP/Window Icons Mouse Pointer...or, GUI/Graphical User Interface system; there was the MS DOS CLI/Command Line Interface user interface operating system, instead; and, this is just a 'black' screen...which also contains what is known as a prompt.
+Before the Windows OS/Operating System was invented...which uses the WIMP/Window Icons Mouse Pointer...or, GUI/Graphical User Interface system; there was the MS DOS CLI/Command Line Interface operating system, instead; and, this is just a 'black' screen...which also contains what is known as a prompt.
 
 C:\>
 
