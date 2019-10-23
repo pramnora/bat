@@ -148,6 +148,30 @@ in order to get the same FOR loop code to work at the command prompt...you would
 
 > FOR %n IN (1,2,3) DO ECHO %n
 
+**MODULES** 
+
+Modularity, is where one MS DOS batch file program can easily be made to call a next.
+
+So, for example...if we had 2 MS DOS FILES: a.bat/bat...and, we wished to link these together...  
+to, automatically, run/execute one after the other...we would write it as...
+
+a.bat
+
+@ECHO OFF  
+CLS  
+ECHO This is file [a.bat]  
+PAUSE  
+b.bat  
+
+b.bat
+
+@ECHO OFF  
+CLS  
+ECHO This is file [b.bat]  
+PAUSE  
+
+**NOTE** You simply call the named batch file program at the end of the file: [b.bat].
+
 -etc.
 
 ## A list of commonly used MS DOS Commands...
