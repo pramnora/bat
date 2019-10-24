@@ -214,6 +214,7 @@ Too, there are IF statements.../-etc.
 
 **appwiz.cpl** opens up Programs and Features control panel   
 **CALC** - launches the calculator program    
+**explorer** - opens up Windows Explorer     
 **Notepad** - launches the Notepad program  
 **Notepad** filename.ext - launches Notepad with the specified: filename + . + extension    
 **MSPaint** - launches MS Paint program for doing drawing/painting  
