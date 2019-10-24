@@ -234,8 +234,9 @@ notepad (used in conjunction with the above; when notepad opens...just do a [CTR
 
 dir > showdir.txt - sends to the file: [showdir.txt] the current directory listing of all files/folders  
 
-
-
+dir | more - if the file output is long...this allows scrolling down one page at a time...;  
+             with the message '-- more --' being written at the bottom of each page;  
+             just keep on, repeatedly, hitting the [ENTER] key to see the next page until all pages are viewed.
 
 ### System related commands
 
