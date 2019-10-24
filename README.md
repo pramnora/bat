@@ -212,6 +212,7 @@ Too, there are IF statements.../-etc.
 
 ### Launch program files related commands
 
+**appwiz.cpl** opens up Programs and Features control panel   
 **CALC** - launches the calculator program    
 **Notepad** - launches the Notepad program  
 **Notepad** filename.ext - launches Notepad with the specified: filename + . + extension    
