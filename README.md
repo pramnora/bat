@@ -223,6 +223,7 @@ Too, there are IF statements.../-etc.
 
 ### Networking related commands
 
+**ARP** - Address Resolution Protocol (display/modify)  
 **IPCONFIG** - shows the computer system info. such as IP address    
 **NETSTAT** - Lists running processes  
 **PING** URL address - tests internet connection between two computers  
